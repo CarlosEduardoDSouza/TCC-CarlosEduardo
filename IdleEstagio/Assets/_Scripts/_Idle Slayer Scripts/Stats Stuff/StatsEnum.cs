@@ -1,0 +1,1 @@
+// public enum Enum_Stats {damage, life, moveSpeed, foodPerSecond, coinsPerSecond, forestryLevel}
